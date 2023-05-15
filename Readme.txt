@@ -1,4 +1,4 @@
 テストアプリ
 PdfMerger or MergerPdf
 
-pyinstallerで PDFMerger.exeをつくり、exeファイルに複数のPDFをドラッグアンドドロップすると結合したファイルが出力される
+pyinstallerで PDFMerger.exeをつくり、exeファイルに複数のPDFをドラッグアンドドロップすると、結合されたPDFファイルが出力される
