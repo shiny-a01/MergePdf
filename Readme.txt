@@ -1,0 +1,4 @@
+テストアプリ
+PdfMerger or MergerPdf
+
+pyinstallerで PDFMerger.exeをつくり、exeファイルに複数のPDFをドラッグアンドドロップすると結合したファイルが出力される
